@@ -52,4 +52,6 @@ If you want you can see
 
 To acess and navigate through the model, you can open the file ```index.html``` in a browser (preferably Chrome) or just access the following link: 
 
-```https://kuukitenshi.github.io/Solar-System__Graphic-Computing/```
+```
+https://kuukitenshi.github.io/Solar-System__Graphic-Computing/
+```
