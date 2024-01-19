@@ -9,23 +9,23 @@ The project's objectives was to create a realistic ```Solar System``` using ```W
 ## Interface
 
 The interface allows you to:
-- Swap the shader type between Shader Phong and Gouraud
-- Remove or set the components of difuse and ambient light
-- Change the amount of specular light
-- Stop the translational movement of the planets and asteroids
+- Swap the shader type between Shader ```Phong and Gouraud```
+- Remove or set the components of ```difuse and ambient``` light
+- Change the ```amount of specular``` light
+- ```Stop the translational``` movement of the planets and asteroids
 
 
 ---
 ## Model
 
 The implementation of this model of a Solar System contains:
-- The Sun
-- The 8 main planets of the Solar System, since Mercury to Neptune
+- The ```Sun```
+- The 8 main ```planets``` of the Solar System, since Mercury to Neptune
 - The dwarf planet Pluto
-- Earth's moon, 3 moons of Jupyter and 2 of Saturn
-- Asteroid belt with 100 asteroids
-- Kuiper belt with 200 asteroids
-- A skybox with for the background
+- Earth's ```moon```, 3 moons of Jupyter and 2 of Saturn
+- ```Asteroid belt``` with 100 asteroids
+- ```Kuiper belt``` with 200 asteroids
+- A ```skybox``` with for the background
 
 
 Furthermore, the scale and rotation period of the plantes are according to the real values.
