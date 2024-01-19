@@ -41,6 +41,7 @@ You can use the following commands to control the camera:
 - ```1```: places the camera following the Earth, until the key is pressed again or the camera is moved
 - ```2```: places the camera on the surface of the Sun
 - ```Mouse```: alows you to rotate the camera horizontally and vertically in first person
+- ```o```: shows the orbit lines
 
 
 ---
@@ -49,6 +50,6 @@ You can use the following commands to control the camera:
 If you want you can see 
 <a href= "https://youtu.be/DB8eehMY8Tc" > here a demo of the project.</a>
 
-To acess and navigate through the model, you can open the file ```index.html``` in a browser (preferably Chrome) or just access the following link:
+To acess and navigate through the model, you can open the file ```index.html``` in a browser (preferably Chrome) or just access the following link: 
 
-``````
+```https://kuukitenshi.github.io/Solar-System__Graphic-Computing/```
