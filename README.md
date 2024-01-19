@@ -47,8 +47,8 @@ You can use the following commands to control the camera:
 ---
 ## Demo
 
-You can see 
-<a href= "https://youtu.be/DB8eehMY8Tc" > here a demo of the project.</a>
+Here you can see 
+<a href= "https://youtu.be/DB8eehMY8Tc" > a demo of the project.</a>
 
 To acess and navigate through the model, you can open the file ```index.html``` in a browser (preferably Chrome) or just access the following link: 
 
