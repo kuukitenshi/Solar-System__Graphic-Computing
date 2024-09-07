@@ -51,7 +51,4 @@ Here you can see
 <a href= "https://youtu.be/DB8eehMY8Tc" > a demo of the project.</a>
 
 To acess and navigate through the model, you can open the file ```index.html``` in a browser (preferably Chrome) or just access the following link: 
-
-```
-https://kuukitenshi.github.io/Solar-System__Graphic-Computing/
-```
+<a href= "https://kuukitenshi.github.io/Solar-System__Graphic-Computing/" > Live demo </a>
